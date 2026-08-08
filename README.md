@@ -129,36 +129,13 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jayasankha-dev&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=00f0a0&title_color=00f0a0&text_color=c9d1d9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasankha-dev&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=00f0a0&text_color=c9d1d9&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankha-dev&theme=dark&hide_border=true&background=0d1117&stroke=00f0a0&ring=00f0a0&fire=ffd700&currStreakLabel=00f0a0" alt="Streak Stats">
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayasankha-dev&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies">
-</div>
-
----
-
 ## 🎯 Recent Activity
 
-<!-- RECENT_ACTIVITY:START -->
 - 🔭 Currently working on: **AEGIS-X Forensic Core**
 - 🌱 Learning: **Advanced Rust & Cyber Forensics**
 - 👯 Looking to collaborate on: **Security Research Projects**
 - 💬 Ask me about: **Python RATs, Forensic Analysis, Chrome Extensions**
 - ⚡ Fun fact: I combine **Psychology** with **Code** to build human‑centric security tools
-<!-- RECENT_ACTIVITY:END -->
 
 ---
 
