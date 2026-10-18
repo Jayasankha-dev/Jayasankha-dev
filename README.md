@@ -28,9 +28,12 @@
   <hr>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Jayasankha-dev&color=00f0a0&style=for-the-badge&cacheBust=2" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/Jayasankha-dev?style=for-the-badge&logo=github&label=Followers&color=00f0a0&cacheBust=2" alt="Followers">
-    <img src="https://img.shields.io/github/stars/Jayasankha-dev?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700&cacheBust=2" alt="Stars">
+    <!-- Visitor Badge (Stable) -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jayasankha-dev.Jayasankha-dev&style=for-the-badge&color=00f0a0" alt="Profile Views">
+    <!-- Static Followers Badge -->
+    <img src="https://img.shields.io/badge/Followers-GitHub-00f0a0?style=for-the-badge&logo=github" alt="Followers">
+    <!-- Static Stars Badge -->
+    <img src="https://img.shields.io/badge/Total%20Stars-18-ffd700?style=for-the-badge&logo=github" alt="Stars">
   </p>
 </div>
 
@@ -164,7 +167,7 @@
   
   <p>
     <a href="https://github.com/Jayasankha-dev?tab=repositories">
-      <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-00f0a0?style=for-the-badge&cacheBust=2">
+      <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-00f0a0?style=for-the-badge">
     </a>
   </p>
   
