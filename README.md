@@ -28,9 +28,9 @@
   <hr>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Jayasankha-dev&color=00f0a0&style=for-the-badge" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/Jayasankha-dev?style=for-the-badge&logo=github&label=Followers&color=00f0a0" alt="Followers">
-    <img src="https://img.shields.io/github/stars/Jayasankha-dev?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700" alt="Stars">
+    <img src="https://komarev.com/ghpvc/?username=Jayasankha-dev&color=00f0a0&style=for-the-badge&cacheBust=2" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/Jayasankha-dev?style=for-the-badge&logo=github&label=Followers&color=00f0a0&cacheBust=2" alt="Followers">
+    <img src="https://img.shields.io/github/stars/Jayasankha-dev?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700&cacheBust=2" alt="Stars">
   </p>
 </div>
 
@@ -164,7 +164,7 @@
   
   <p>
     <a href="https://github.com/Jayasankha-dev?tab=repositories">
-      <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-00f0a0?style=for-the-badge">
+      <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-00f0a0?style=for-the-badge&cacheBust=2">
     </a>
   </p>
   
