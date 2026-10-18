@@ -28,12 +28,9 @@
   <hr>
   
   <p>
-    <!-- Visitor Badge (Stable) -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jayasankha-dev.Jayasankha-dev&style=for-the-badge&color=00f0a0" alt="Profile Views">
-    <!-- Static Followers Badge -->
-    <img src="https://img.shields.io/badge/Followers-GitHub-00f0a0?style=for-the-badge&logo=github" alt="Followers">
-    <!-- Static Stars Badge -->
-    <img src="https://img.shields.io/badge/Total%20Stars-18-ffd700?style=for-the-badge&logo=github" alt="Stars">
+    <img src="https://hits.sh/github.com/Jayasankha-dev.svg?style=for-the-badge&label=Profile%20Views&color=00f0a0&labelColor=555555" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/Jayasankha-dev?style=for-the-badge&logo=github&label=Followers&color=00f0a0" alt="Followers">
+    <img src="https://img.shields.io/github/stars/Jayasankha-dev?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700" alt="Stars">
   </p>
 </div>
 
